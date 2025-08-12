@@ -4,6 +4,7 @@
 
 ### Primary Goal
 Create a production-ready MVP that automates book launch marketing using the proven 12-stage cascade methodology, supporting multiple books with subscription-based pricing.
+Test on my books https://www.amazon.com/dp/B0FLVYMQHV?binding=kindle_edition&ref=dbs_dp_sirpi
 
 ### Success Criteria
 - Support for 4+ books with variable metadata
